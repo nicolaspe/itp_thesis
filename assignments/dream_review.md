@@ -13,7 +13,7 @@ Then, it was the turn of the audience to try the 10 meter interactive wall. As m
 Hopefully, Nicolás' work will be a starting point of a transformative career. Their subjects of study all have to deal with contemporary and difficult subjects, but if they can create experiences such as this one, where the creation of emotion is at it's core, the world will surely continue moving towards a more accepting place.
 
 
-
+<!--
 Finally, one of the
 the purity of the movement/removal of labels
 
@@ -27,4 +27,4 @@ It doesn't possess a body, but it is recognizable as yourself. It's non-gendered
 connection with yourself
 form of expression
 
-looking into a mirror
+looking into a mirror -->
