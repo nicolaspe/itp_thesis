@@ -26,7 +26,7 @@ So far, I have not found a project that does what I want to achieve; but there a
 
 I am dividing my research in several parts. This week I did most of my research on dance and choreography. While a lot of these works are about algorithmically generated instructions for performers (and I want to do something that's more like the opposite), it is useful to know what's been done, the methods used and see the actual results.
 
-- [Labannotation](http://www.dancenotation.org/lnbasics/frame0.html) : how to write movement?
+- [Labanotation](http://www.dancenotation.org/lnbasics/frame0.html) : how to write movement?
 
 - [Gaga movement](http://gagapeople.com/english/)
 
